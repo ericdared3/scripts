@@ -1,1 +1,0 @@
-sysmon64.exe -accepteula -i sysmonconfig.xml
